@@ -126,7 +126,7 @@ Checkout [A_Star.pdf](media/A_Star.pdf) to attempt the task.
 
     **Great!!!**
 
-## NOW WITH THE TASKS!!!
+## Task 2 for this part !!!
 
 The task for this part would be implementing the Kalman Filter algorithm and the Particle Filter algorithm in python. Work on Google colab and submit by **15 July'24 EOD**.
 [Kalman Filter task](media/kalman%20(1).pdf)
