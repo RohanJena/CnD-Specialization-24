@@ -70,7 +70,7 @@ RRT* creates incredibly straight paths. Additionally, its graphs are characteris
 
 ## TASK-1 FOR THE PART
 
-Checkout [A_Star.pdf](media/A_Star(1).pdf) to attempt the task.
+Checkout [A_Star.pdf](media/A_Star.pdf) to attempt the task.
 
 # Optimal Estimation Algorithms: Kalman and Particle Filters
 
